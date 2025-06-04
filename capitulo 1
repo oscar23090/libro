@@ -1,0 +1,15 @@
+Git es un sistema de control de versiones distribuido, una herramienta 
+fundamental para el desarrollo de software que permite gestionar las 
+versiones de un proyecto de código fuente a lo largo del tiempo. Su 
+principal función es mantener un registro de los cambios realizados en 
+los archivos, facilitando la colaboración entre desarrolladores y la 
+gestión de proyectos complejos. 
+¿Qué es Git? 
+Sistema de control de versiones distribuido: 
+Cada desarrollador tiene una copia local del repositorio completo, lo 
+que permite trabajar de forma independiente y sincronizar los cambios 
+más tarde.  
+Historial de versiones: 
+Git mantiene un registro detallado de todas las modificaciones 
+realizadas en los archivos, con información sobre quién las realizó, 
+cuándo y por qué. 
